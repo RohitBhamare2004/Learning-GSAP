@@ -74,3 +74,21 @@ Improve my animation skills
 Learn GSAP deeply
 Build creative front-end interactions
 Practice structuring clean and reusable animation code
+
+
+📁 Project Index & Live Demo Links : 
+
+Below is a list of all 12 practice projects. Click the link to view the live demo :
+
+Practice 1 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-1/
+Practice 2 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-2/
+Practice 3 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-3/
+Practice 4 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-4/
+Practice 5 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-5/
+Practice 6 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-6/
+Practice 7 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-7/
+Practice 8 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-8/
+Practice 9 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-9/
+Practice 10 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-10/
+Practice 11 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-11/
+Practice 12 – Live Demo - https://rohitbhamare2004.github.io/Learning-GSAP/practice-12/
