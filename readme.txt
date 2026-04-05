@@ -1,5 +1,7 @@
 # Learning GSAP 
 
+All practice in one : https://rohitbhamare2004.github.io/Learning-GSAP/
+
 This repository contains my collection of 12 hands-on practice projects built with **GSAP (GreenSock Animation Platform)**. Each mini-project focuses on understanding a specific GSAP concept—such as timelines, easing, scroll animations, stagger effects, pinning, and complex motion sequences. By practicing small and focused animations instead of one large project, I strengthened my understanding of GSAP’s core workflow and how to combine multiple animation techniques to create smooth, interactive, and visually appealing web experiences.
 
 ## 🌱 Notes for Understanding GSAP
